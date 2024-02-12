@@ -1,0 +1,43 @@
+.container{
+    margin-top: 50px;
+}
+.menu{
+    text-align: center;
+    margin-top: 30px;
+    margin-top: 100px;
+    font-size: 30px;
+}
+.row{
+    margin-top: 20px;
+}
+.col1{
+    border: black solid 3px;
+    margin-left: 70px;
+}
+.chicken{
+    height: 30px;
+    width: 100px;
+    background-color: aquamarine;
+    text-align: center;
+    border:solid black 2px;
+    position: relative;
+    float: right;
+}
+.beef{
+    height: 30px;
+    width: 100px;
+    background-color:red;
+    text-align: center;
+    border:solid black 2px;
+    position: relative;
+    float: right;
+}
+.sushi{
+    height: 30px;
+    width: 100px;
+    background-color: aquamarine;
+    text-align: center;
+    border:solid black 2px;
+    position: relative;
+    float: right;
+}
